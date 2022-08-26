@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <BaseOutputPath>D:\DHD\Gitee\ProjectRelease\DHD.WindowsTools</BaseOutputPath>
+    <ApplicationIcon>FACE02.ICO</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Icons\star3.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="FACE02.ICO" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icons\star3.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Config.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Reg.py">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
