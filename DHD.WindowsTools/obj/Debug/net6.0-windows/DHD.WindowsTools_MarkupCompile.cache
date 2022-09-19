@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\DHD\Gitee\DHD.WindowsTools\DHD.WindowsTools\obj\Debug\net6.0-windows\
+D:\DHD\GitHub\DHD.WindowsTools\DHD.WindowsTools\obj\Debug\net6.0-windows\
 DHD.WindowsTools
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\DHD\Gitee\DHD.WindowsTools\DHD.WindowsTools\App.xaml
+D:\DHD\GitHub\DHD.WindowsTools\DHD.WindowsTools\App.xaml
 21761904869
 1-1678620500
 6586949709
-1942030480316
+194-1103864946
 Controls\MoveToList.xaml;MainWindow.xaml;
 
 False

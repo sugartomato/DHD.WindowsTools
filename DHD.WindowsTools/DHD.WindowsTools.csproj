@@ -5,7 +5,7 @@
     <TargetFramework>net6.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
-    <BaseOutputPath>D:\DHD\Gitee\ProjectRelease\DHD.WindowsTools</BaseOutputPath>
+    <BaseOutputPath>D:\DHD\GitHub\ProjectRelease\DHD.WindowsTools</BaseOutputPath>
     <ApplicationIcon>FACE02.ICO</ApplicationIcon>
   </PropertyGroup>
 
